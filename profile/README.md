@@ -32,7 +32,7 @@ Join Pean Logistics today and experience trucking like never before! 🚛💨
 ---
 [![Website](https://img.shields.io/badge/Visit%20-%20?style=for-the-badge&label=Website&labelColor=3f3f3f&color=%23b77c42)
 ](https://plvtc.com/)
-[![TruckersMP](https://img.shields.io/badge/TruckersMP%20-%20?style=for-the-badge&labelColor=3f3f3f&color=3f3f3f)
+[![TruckersMP](https://img.shields.io/badge/Visit%20-%20?style=for-the-badge&label=TruckersMP&labelColor=3f3f3f&color=%23b77c42)
 ](https://truckersmp.com/vtc/64631)
 [![Discord](https://img.shields.io/discord/1132162257502077010?style=for-the-badge&logo=Discord&logoColor=%23ffffff&label=Discord&labelColor=3f3f3f&color=%23b77c42)](https://discord.plvtc.com)
 [![Twitch](https://img.shields.io/twitch/status/pean_logistics?style=for-the-badge&logo=Twitch&logoColor=%23ffffff&label=Twitch&labelColor=3f3f3f&color=%23b77c42)
